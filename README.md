@@ -1,6 +1,6 @@
 # Development and Implementation of Industry 4.0 Workpiece Transfer Unit
 
-This repository contains documentation, CAD files, robot programming, and other resources related to the development and implementation of an Industry 4.0 Workpiece Transfer Unit. The project focuses on creating an adaptable and efficient system for digital manufacturing.
+This repository contains documentation, CAD files, robot programming, and other resources related to the development and implementation of an Industry 4.0 Workpiece Transfer Unit. The project focuses on creating an adaptable and efficient system for digital manufacturing. It is imperative to note that this project is undertaken as part of the summer semester project for the Master of Engineering in Industrial Informatics at the University of Applied Sciences Emden/Leer, within the Faculty of Technology, Department of Electrical Engineering and Computer Science.
 
 ## Table of Contents
 1. [Introduction](#introduction)
@@ -56,7 +56,7 @@ Find robot programming files for the UR5e robot, along with variable files and i
 
 ## OPC UA Server Programming
 
-Discover Python scripts and XML files for OPC UA server programming, which is crucial for communication within the digital factory environment.
+Discover Python scripts and XML files for OPC UA server programming, which is important for communication within the digital factory environment.
 
 ## Report
 
