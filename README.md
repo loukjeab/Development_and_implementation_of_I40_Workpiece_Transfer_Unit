@@ -62,4 +62,4 @@ Discover Python scripts and XML files for OPC UA server programming, which is im
 
 Read the comprehensive project report that details the development and implementation of the Industry 4.0 Workpiece Transfer Unit.
 
-Feel free to explore the resources in this repository to understand, implement, or contribute to this exciting project. If you have any questions or need assistance, please don't hesitate to reach out.
+Feel free to explore the resources in this repository to understand, implement, or contribute to this project. If you have any questions or need assistance, please don't hesitate to reach out.
